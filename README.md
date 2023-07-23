@@ -1,5 +1,4 @@
 # Yugitos Chiloé
-======================
 
 Contenedor de reglamentos, normas y otros documentos de la comunidad Yugitos Chiloé
 > Revisado y actualizado al 22-07-2023
