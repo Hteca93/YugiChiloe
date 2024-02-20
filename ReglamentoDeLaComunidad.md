@@ -22,3 +22,4 @@
 
 9° No hacer spam en los canales de texto, incluyendo etiquetas, promociones o demasiados mensajes en poco tiempo.
 
+10° Están prohibidos sin excepción los chistes sobre las familias de los integrantes (Incidente: 14/02)
