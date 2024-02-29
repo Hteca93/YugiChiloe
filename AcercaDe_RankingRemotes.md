@@ -19,15 +19,15 @@ El Ranking de Remotes es un sistema de puntaje en el que se registra el valor pe
 
 Además de separarse el Ranking por temporadas, se dispondrá de 3 categorías para participar:
 - Meta
-  Todos los decks, arquetipos y cartas estarán permitidos, sólo limitados a la Banlist vigente.
+  - Todos los decks, arquetipos y cartas estarán permitidos, sólo limitados a la Banlist vigente.
   
 - FUN (Formato Únicamente Nache)
-  Formato orientado a los decks no meta, rogue y fun. Además de la Banlist de Konami, contará con una Banlist especial donde se prohibirán arquetipos y cartas para mantener un nivel justo entre los   participantes. 
+  - Formato orientado a los decks no meta, rogue y fun. Además de la Banlist de Konami, contará con una Banlist especial donde se prohibirán arquetipos y cartas para mantener un nivel justo entre los   participantes. 
 
 - Randomize
-  -- Los participantes serán asignados con un deck aleatorio, determinado por la pagina [Wheel of Yugioh](https://tsx1.com/pages/wheel-of-yugioh), en un directo por Discord.
-  -- La categoría a usar serán decks clase D.
-  -- Los decks podrán ser creados por los participantes o sacados de una página como YGOPRO, pero deberán seguir las reglas establecidas por el formato. (Ver página de Wheel of Yugioh, sección RULES)
+  -  Los participantes serán asignados con un deck aleatorio, determinado por la pagina [Wheel of Yugioh](https://tsx1.com/pages/wheel-of-yugioh), en un directo por Discord.
+  -  La categoría a usar serán decks clase D.
+  -  Los decks podrán ser creados por los participantes o sacados de una página como YGOPRO, pero deberán seguir las reglas establecidas por el formato. (Ver página de Wheel of Yugioh, sección RULES)
 # Ejemplo de un Match
 - Jugador A organiza su duelo con Jugador B.
 - Ambos jugadores acuerdan la cantidad de puntos que se apostarán.
