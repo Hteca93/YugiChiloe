@@ -28,6 +28,7 @@ Además de separarse el Ranking por temporadas, se dispondrá de 3 categorías p
   -  Los participantes serán asignados con un deck aleatorio, determinado por la pagina [Wheel of Yugioh](https://tsx1.com/pages/wheel-of-yugioh), en un directo por Discord.
   -  La categoría a usar serán decks clase D.
   -  Los decks podrán ser creados por los participantes o sacados de una página como YGOPRO, pero deberán seguir las reglas establecidas por el formato. (Ver página de Wheel of Yugioh, sección RULES)
+  -  Para jugar a este modo/categoría, se recomienda utilizar plataformas como Dueling Nexus o YGO Omega.
 # Ejemplo de un Match
 - Jugador A organiza su duelo con Jugador B.
 - Ambos jugadores acuerdan la cantidad de puntos que se apostarán.
