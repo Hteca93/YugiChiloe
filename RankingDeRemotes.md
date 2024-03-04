@@ -5,10 +5,13 @@ Este documento mantiene el registro de los puntos de cada participante en el Ran
 
 # CATEGORÍA META
 - Jhonathan:  100
+- Jorjo:      100
 
 # CATEGORÍA FUN
 - Jhonathan:  100
+- Jorjo:      100
 
 # CATEGORÍA RANDOMIZE
 - Jhonathan:  100
 - Dylan:      100
+- Jorjo:      100
