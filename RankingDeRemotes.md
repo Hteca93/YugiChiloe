@@ -7,6 +7,7 @@ Este documento mantiene el registro de los puntos de cada participante en el Ran
 - Jhonathan:  100
 - Jorjo:      100
 - Kristian:   100
+- Ignacio:    100
 
 # CATEGORÍA FUN
 - Jhonathan:  100
