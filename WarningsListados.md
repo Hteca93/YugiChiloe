@@ -1,5 +1,5 @@
 # SISTEMA DE WARNINGS
->Actualizado al 25-02-2024
+>Actualizado al 09-03-2024
 ----------
 El presente documento presenta el registro actual de warnings acumulados por los miembros de la comunidad, registrando la fecha, el motivo por el que se otorgó la advertencia y (en el caso que corresponda) el motivo por el que se retiró la advertencia.
 
@@ -25,4 +25,4 @@ Actualmente el sistema castiga a los miembros de la comunidad desde los DOS (2) 
 
 #### **Listado de Warnings**
 
-No han habido warnings otorgados por el momento.
+Pedro:  1 (09-03 por regla 10)
